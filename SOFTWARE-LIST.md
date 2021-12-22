@@ -828,6 +828,7 @@ This list was initially populated using information from the following sources:
 | EasyRedmine | | | | | [EasyRedmine News](https://www.easyredmine.com/news/easy-redmine-application-is-not-affected-by-the-vulnerability-cve-2021-44228) | | | |
 | Eaton | Undisclosed | Undisclosed | Affected | | [Security Bulletin](https://www.eaton.com/content/dam/eaton/company/news-insights/cybersecurity/security-bulletins/Eaton-Security-Bulletin%20log4j_CVE_2021_44228_v1.0_Legal-Approved.pdf) | Doesn't openly disclose what products are affected or not for quote 'security purposes'. Needs email registration. No workaround provided due to registration wall. | | |
 | EclecticIQ | | | | | [EclecticIQ Advisory](https://docs.eclecticiq.com/security-advisories/security-issues-and-mitigation-actions/eiq-2021-0016-2) | | | |
+| Birt | | | Not affected | | [Eclipse communication](https://wiki.eclipse.org/Eclipse_and_log4j2_vulnerability_
 | Eclipse Foundation | | | | | [Eclipse Foundation Wiki](https://wiki.eclipse.org/Eclipse_and_log4j2_vulnerability_(CVE-2021-44228)) | | | |
 | EFI | | | | | [EFI Link](https://communities.efi.com/s/article/Are-Fiery-Servers-vulnerable-to-CVE-2021-44228-Apache-Log4j2?language=en_US) | | | |
 | EGroupware | | | | | [EGroupware Link](https://help.egroupware.org/t/uk-de-statement-log4j-log4shell/76430) | | | |
@@ -927,6 +928,7 @@ This list was initially populated using information from the following sources:
 | FileCap | | | | | [FileCapStatement](https://mailchi.mp/3f82266e0717/filecap-update-version-511) | | | |
 | FileCatalyst | | | | | [FileCatalyst Statement](https://support.filecatalyst.com/index.php/Knowledgebase/Article/View/advisory-log4j-zero-day-security-vulnerability) | | | |
 | FileCloud | | | | | [FileCloud Statement](https://www.getfilecloud.com/supportdocs/display/cloud/Advisory+2021-12-2+Impact+of+Apache+Log4j2+Vulnerability+on+FileCloud+Customers) | | | |
+| Filezilla | Filezilla | | | Not Affected | [Filezilla Forum](https://forum.filezilla-project.org/viewtopic.php?f=6&t=54338) | | | |
 | FileWave | | | | | [FileWave Statement](https://kb.filewave.com/display/KB/Security+Notice:+Apache+log4j+Vulnerability+CVE-2021-44228) | | | |
 | FINVI | | | | | [FINVI Statement](https://finvi.com/support/) | | | |
 | FireDaemon | | | | | [FireDemon Statement](https://kb.firedaemon.com/support/solutions/articles/4000178630) | | | |
@@ -1702,6 +1704,8 @@ This list was initially populated using information from the following sources:
 | Nice Software (AWS) EnginFRAME | | | | | [Nice Software EnginFRAME Link](https://download.enginframe.com/) | | | |
 | NinjaRMM | | | | | [NinjaRMM Article](https://ninjarmm.zendesk.com/hc/en-us/articles/4416226194189-12-10-21-Security-Declaration-NinjaOne-not-affected-by-CVE-2021-44228-log4j-) |This advisory is available to customers only and has not been reviewed by CISA | | |
 | Nomachine | | | | | [Nomachine Forums](https://forums.nomachine.com/topic/apache-log4j-notification) | | | |
+| Notepad ++ | Notepad ++ | | Not affected | | 
+ [Notepad Community](https://community.notepad-plus-plus.org/topic/22260/log4j-vulnerability) | | | |
 | NoviFlow | | | | | [Noviflow Link](https://noviflow.com/noviflow-products-and-the-log4shell-exploit-cve-2021-44228/) | | | |
 | Nulab | | | | | [Nulab Blog Post](https://nulab.com/blog/company-news/log4shell/) | | | |
 | Nutanix | | | | | [Nutanix Alert Link](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf) | | | |
@@ -2170,6 +2174,7 @@ This list was initially populated using information from the following sources:
 | Strimzi | | | | | [Strimzi Statement](https://strimzi.io/blog/2021/12/14/strimzi-and-log4shell/) | | | |
 | Stripe | | | | | [Stripe Support](https://support.stripe.com/questions/update-for-apache-log4j-vulnerability-(cve-2021-44228)) | | | |
 | Styra | | | | | [Styra Security Notice](https://blog.styra.com/blog/newest-log4j-security-vulnerability-cve-2021-44228-log4shell) | | | |
+| Subversion | | | Not affected | | [Subversion](https://subversion.apache.org/ ) | | | |
 | Sumologic | | | | | [Sumologic Statement](https://docs.google.com/document/d/e/2PACX-1vSdeODZ2E5k0aZgHm06OJWhDQWgtxxB0ZIrTsuQjg5xaoxlogmTVGdOWoSFtDlZBdHzY6ET6k6Sk-g1/pub) | | | |
 | SumoLogic | | | | | [Sumologic Release Notes](https://help.sumologic.com/Release-Notes/Collector-Release-Notes#december-11-2021-19-361-12) | | | |
 | Superna EYEGLASS | | | | | [Superna EYEGLASS Technical Advisory](https://manuals.supernaeyeglass.com/project-technical-advisories-all-products/HTML/technical-advisories.html#h2__1912345025) | | | |
@@ -2290,6 +2295,7 @@ This list was initially populated using information from the following sources:
 | Veritas NetBackup | | | | | [Verita Statement](https://www.veritas.com/content/support/en_US/article.100052070) | | | |
 | Vertica | | | | | [Vertica Statement](https://forum.vertica.com/discussion/242512/vertica-security-bulletin-a-potential-vulnerability-has-been-identified-apache-log4j-library-used) | | | |
 | Viso Trust | | | | | [Viso Trust Statement](https://blog.visotrust.com/viso-trust-statement-re-cve-2021-44228-log4j-a4b9b5767492) | | | |
+| Visual Studio Code | | | Not affected | | [Microsoft’s Response to CVE-2021-44228 Apache Log4j 2](https://msrc-blog.microsoft.com/2021/12/11/microsofts-response-to-cve-2021-44228-apache-log4j2/) | | | |
 | VMware | API Portal for VMware Tanzu | 1.x | Affected | No | [VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) | | | 12/12/2021 |
 | VMware | App Metrics | 2.x | Affected | Yes | [VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) | | | 12/12/2021 |
 | VMware | Healthwatch for Tanzu Application Service | 2.x, 1.x | Affected | Yes | [VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) | | | 12/12/2021 |
